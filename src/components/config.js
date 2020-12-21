@@ -1,0 +1,5 @@
+
+export const CONFIG={
+    WHETHER_API:
+        "http://api.openweathermap.org/data/2.5/weather?q=~&units=metric&appid=71c1b58ec00319babee31549bca3a704"
+};
